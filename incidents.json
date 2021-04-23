@@ -90,8 +90,8 @@
     }
   ],
   "MatchedIncidentCount": 0,
-  "AllAcres": 2569,
-  "AllIncidentCount": 18,
+  "AllAcres": 2619,
+  "AllIncidentCount": 19,
   "AllFatalities": 0,
   "AllStructures": 0,
   "ListIncidents": [
@@ -490,6 +490,23 @@
       "IncidentTypeDisplay": "Wildfire",
       "Url": "https://www.fire.ca.gov/incidents/2021/4/19/river-fire/",
       "IsActive": "Y"
+    },
+    {
+      "IncidentId": 2792,
+      "UniqueId": "3093980c-b80f-4b7b-a040-d4fc868142ca",
+      "Name": "Wolves Fire",
+      "Location": "Dead end of Goldcrest St, south west of Bakersfield",
+      "Latitude": 34.9471195,
+      "Longitude": -1191414610,
+      "AcresBurnedDisplay": "50",
+      "PercentContainedDisplay": "100%",
+      "CountiesList": "Kern",
+      "UpdatedDate": "2021-04-23 01:08:52",
+      "StartedDate": "2021-04-23",
+      "AdminUnit": "Kern County Fire Department",
+      "IncidentTypeDisplay": "Wildfire",
+      "Url": "https://www.fire.ca.gov/incidents/2021/4/23/wolves-fire/",
+      "IsActive": "N"
     }
   ]
 }
